@@ -1,0 +1,32 @@
+body {
+    background: linear-gradient(to bottom, #1d45b3 0%, #761a63 75%, #e6612c 100%);
+    margin: 0;
+    overflow: hidden !important;
+  }
+  .text {
+    color: white;
+    position: absolute;
+    top: 25%;
+    text-align: center;
+    display: block;
+    width: 100%;
+    font-family: "Montserrat", Sans-Serif;
+    font-size: 1.5rem;
+  }
+  #textt {
+    color: rgba(243, 150, 10, 0.678);
+  }
+
+  .text .img a {
+    color: rgb(248, 244, 244);
+    text-decoration: none;
+    top: 160%;
+  }
+  .text .msg a {
+    color: white;
+    text-decoration: none;
+    top: 178%;
+  }
+  .text p {
+    font-size: 16px;
+  }
